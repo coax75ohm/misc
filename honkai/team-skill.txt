@@ -1,0 +1,112 @@
+Kiana
+  White Comet
+  Celestial Immortality
+    [CD:40] Instantly revives any
+    ressurectable teammates and grants
+    all teammates 85% damage reduction
+    for 10 sec
+
+  Valkyrie Ranger
+  Singularity Burst
+    [CD:90] Channels energy for 3 sec,
+    then greatly increases the movement
+    speed, attack speed and all damage
+    done of your team for 10 sec
+
+  Divine Prayer
+  Holyblood Bolt
+    [CD:40] Fires a Holyblood Bolt that
+    marks the enemy for 8 sec. Attacking
+    the marked enemy recovers HP
+
+  Knight Moonbeam
+  Moon Time
+    [CD:45] Available during Time Fracture.
+    Greatly increases critical damage and
+    critical rate for the whole team during
+    the Time Fracture. (This skill extends
+    shorter Time Fractures)
+
+Mei
+  Crimson Impulse
+  Time Rider
+    [CD:55] Casts Time Slow at enemies for
+    8 sec, dealing damage periodically and
+    preventing shield regeneration
+
+  Valkyrie Bladestrike
+  Combo Time
+    [CD:45] Increases combo counts for the
+    whole team by 50. Recovers SP according
+    to the combo count after 5 sec
+
+  Shadow Dash
+  Nightfall
+    [CD:50] Clears your threat against all
+    enemies. For 12 sec, all your team
+    members deal additional lightning
+    damage when attacking enemies from
+    behind
+
+  Lightning Empress
+  Kirin
+    [CD:60] Summons a thunderstorm and
+    generates motes of thunder for 12 sec.
+    Picking up the motes to unleash God
+    Penalty, dealing great lightning damage
+    with paralysis effect
+
+Bronya
+  Valkyrie Chariot
+  Power Module
+    [CD:68] Sets up a Power Module that
+    provides SP recovery within its effective
+    range for 12 sec
+
+  Yamabuki Armor
+  Synergistic Attraction
+    [CD:40] Replenishes the shield and
+    increases defense. Also, taunts and
+    weakens enemies within a large radius
+    for 10 sec
+
+  Snowy Sniper
+  Arctic Territory
+    [CD:45] Freezes the ground under your feet
+    to slow enemies and weakens their shield
+
+  Dimensional Break
+  Dimension Control
+    [CD:38] Channeling dimensional energy to
+    lock an enemy, greatly increases the
+    damage taken by the target and yourself
+
+Himeko
+  Battle Storm
+  Shield-breaking Taunt
+    [CD:45] A devastating strike that deals
+    tremendous damage to enemy shields,
+    taunting all targets hit. Dramatically
+    boosts defense based on the number of
+    targets hit
+
+  Scarlet Fusion
+  Fusion Burst
+    [CD:60] Infuses the whole team with
+    lightning energy that triggers a
+    Fusion Explosion after 3 sec, empowering
+    teammates' attacks to deal additional
+    lightning damage for 10 sec
+
+  Valkyrie Triumph
+  Healing Barrier
+    [CD:65] Creates a healing ground that
+    prevents enemies to step forth while
+    healing teammates. Last for 10 sec
+
+  Blood Rose
+  Duel Zone
+    [CD:60] Creates a Duel Zone that
+    immobilizes enemies and greatly
+    increases your attack speed and damage
+    for 10 sec
