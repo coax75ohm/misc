@@ -56,6 +56,21 @@ Mei
     Penalty, dealing great lightning damage
     with paralysis effect
 
+Sakura
+  Gyakushinn Miko
+  Sakura Slash
+    [CD:55] Casts Time Slow on enemies for
+    8 sec, increasing their damage taken and
+    preventing shield regeneration. At the
+    end of Time Slow, marks the affected
+    targets with Sakura Brand
+
+  Goushinnso Memento
+  Gravity Illusion
+    [CD:50] Summons a powerful illusion that
+    taunts and attracts enemies within a
+    large radius.
+
 Bronya
   Valkyrie Chariot
   Power Module
