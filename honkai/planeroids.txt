@@ -1,0 +1,10 @@
+Skipping mission gives:
+  Coins                 2 (x2)
+  Upgrade Materials     3 (x2)
+  Experience Materials  6
+
+Force refresh cost:
+  Coins                 5
+  Upgrade Materials     6
+  Experience Materials 12
+           
